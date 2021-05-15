@@ -25,7 +25,7 @@
 ### iframe
 
 ```html
-<iframe height="740" src="http://ac.58dazhe.com"></iframe>
+<iframe width="100%" height="740" src="http://ac.58dazhe.com"></iframe>
 ```
 
 您可以快速为您的网站安装空调。
