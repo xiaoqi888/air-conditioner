@@ -3,7 +3,7 @@
 云空调，便携小空调，为你的夏日带去清凉！
 
 
-- 裸机：<http://ac.58dazhe.com/>
+- 裸机：<http://ac.58dazhe.com>
 
 ## Features
 
